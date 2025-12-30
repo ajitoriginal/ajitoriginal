@@ -2,7 +2,7 @@
 Results-driven Software Engineer with 4+ years of experience as MERN stack specialist & building, optimizing scalable full-stack web applications. Proven expertise in integrating real-time communication tools, automation, and deploying robust cloud-based solutions. Adept at designing RESTful APIs, optimizing Databases queries, and delivering high-performance user interfaces. Collaborative team player with strong communication and leadership skills, committed to agile practices and continuous improvement.
 
 ## 🔗 Portfolio:
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajitoriginal.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajitoriginal.github.io/portfolio)
 
 
 ## 🌐 Socials:
