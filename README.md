@@ -1,6 +1,9 @@
 # 💫 About Me:
 Results-driven Software Engineer with 4+ years of experience as MERN stack specialist & building, optimizing scalable full-stack web applications. Proven expertise in integrating real-time communication tools, automation, and deploying robust cloud-based solutions. Adept at designing RESTful APIs, optimizing Databases queries, and delivering high-performance user interfaces. Collaborative team player with strong communication and leadership skills, committed to agile practices and continuous improvement.
 
+## 🔗 Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajit-original)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajitsinghoriginal@gmail.com)
