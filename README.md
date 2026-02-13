@@ -1,5 +1,20 @@
 # 💫 About Me:
-Results-driven Software Engineer with 4+ years of experience as MERN stack specialist & building, optimizing scalable full-stack web applications. Proven expertise in integrating real-time communication tools, automation, and deploying robust cloud-based solutions. Adept at designing RESTful APIs, optimizing Databases queries, and delivering high-performance user interfaces. Collaborative team player with strong communication and leadership skills, committed to agile practices and continuous improvement.
+I’m a Full Stack Engineer with 4+ years of experience building scalable web applications and production-grade backend systems.I specialize in designing secure REST APIs, optimizing database performance, and implementing real-time communication systems.
+
+Over the years, I’ve:
+
+• Built and deployed scalable MERN applications
+• Integrated automation systems using IMAP & backend scripts
+• Implemented secure authentication (JWT, rate limiting, validation)
+• Optimized database queries improving performance
+• Worked on cloud-based deployments
+
+Currently expanding into:
+• Application Security
+• Cloud Security
+• System Design for high-scale systems
+
+My goal is simple: Build systems that are scalable, efficient, and secure by design.
 
 ## 🔗 Portfolio:
 [![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajitoriginal.github.io/portfolio)
