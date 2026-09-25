@@ -1,20 +1,5 @@
 # 💫 About Me:
-I’m a Full Stack Engineer with 4+ years of experience building scalable web applications and production-grade backend systems.I specialize in designing secure REST APIs, optimizing database performance, and implementing real-time communication systems.
-
-Over the years, I’ve:
-
-• Built and deployed scalable MERN applications
-• Integrated automation systems using IMAP & backend scripts
-• Implemented secure authentication (JWT, rate limiting, validation)
-• Optimized database queries improving performance
-• Worked on cloud-based deployments
-
-Currently expanding into:
-• Application Security
-• Cloud Security
-• System Design for high-scale systems
-
-My goal is simple: Build systems that are scalable, efficient, and secure by design.
+Software Engineer with 4+ years of experience building web applications, REST APIs and cloud systems using Node.js, React.js, JavaScript/TypeScript, MongoDB/MySQL and AWS. Hands-on experience implementing JWT authentication, RBAC, API input sanitization, code reviews, CI/CD practices and cloud deployments. Transitioning into Application Security / Product Security through cybersecurity training and hands-on labs focused on web/API security, vulnerability analysis and secure software engineering. Comfortable reading application code and writing scripts for security automation and analysis.
 
 ## 🔗 Portfolio:
 [![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajitoriginal.github.io/portfolio)
