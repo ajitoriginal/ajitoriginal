@@ -53,6 +53,13 @@ Deployed a honeypot to simulate and analyze SSH brute-force activity, followed b
 
 ---
 
+## 📚 Cybersecurity Portfolio
+
+➡️ **[View All Cybersecurity Labs](https://github.com/ajitoriginal/cybersecurity-portfolio/tree/main/labs)**  
+➡️ **[View All Cybersecurity Projects](https://github.com/ajitoriginal/cybersecurity-portfolio/tree/main/projects)**
+
+---
+
 ## 🎯 Career Focus
 
 I'm currently targeting opportunities in:
