@@ -14,8 +14,9 @@ I leverage my software-engineering background to understand applications from bo
 
 * 🔐 Application Security & Product Security
 * 🌐 Web & API Security
-* 🛡️ OWASP Top 10
+* 🛡️ OWASP Top 10 & OWASP API Security Top 10
 * 🔎 Vulnerability Assessment & Penetration Testing
+* 🧠 Threat Modeling & Vulnerability Management
 * 🔒 Authentication & Authorization / RBAC
 * 🧪 SAST / DAST / SCA
 * 🔄 Secure SDLC & Secure Coding
@@ -67,8 +68,6 @@ I'm currently targeting opportunities in:
 * **Application Security Engineer**
 * **Product Security Engineer**
 * **Security Engineer**
-* **Application Security Analyst**
-* **Product Security Analyst**
 * **Cloud Security / DevSecOps — entry-level opportunities**
 
 My long-term goal is to build expertise in **Application & Product Security**, combining my software-engineering background with practical cybersecurity skills.
@@ -101,11 +100,17 @@ My long-term goal is to build expertise in **Application & Product Security**, c
 
 ### 🔐 Security
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-000000?style=for-the-badge)
 
 ### 💻 Languages
 
