@@ -12,7 +12,7 @@ I leverage my software-engineering background to understand applications from bo
 
 ---
 
-## 🛡️ Cybersecurity Focus
+## 🛡️ Security Expertise
 
 * 🔐 Application Security & Product Security
 * 🌐 Web & API Security
