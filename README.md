@@ -1,7 +1,5 @@
 # 💫 About Me
 
-## 💫 About Me
-
 Security-focused Software Engineer with **4+ years of experience** building web applications, REST APIs, and cloud systems using **Node.js, React.js, JavaScript/TypeScript, MongoDB, MySQL, and AWS**.
 
 Hands-on experience with **Application & API Security, JWT authentication, RBAC, API input validation/sanitization, secure coding, code reviews, CI/CD, and cloud deployments**.
