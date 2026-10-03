@@ -4,7 +4,7 @@ Security-focused Software Engineer with **4+ years of experience** building web 
 
 Hands-on experience with **Application & API Security, JWT authentication, RBAC, API input validation/sanitization, secure coding, code reviews, CI/CD, and cloud deployments**.
 
-Currently transitioning into **Application Security / Product Security**, with practical cybersecurity training and hands-on labs covering **Web & API Security, OWASP Top 10, Vulnerability Assessment & VAPT, Secure SDLC, SAST, DAST, SCA, Linux Security, and security testing tools**.
+Currently transitioning into **Application Security / Product Security**, with practical cybersecurity training and hands-on labs covering **Security Engineering, Web & API Security, OWASP Top 10, Threats & Risk, Network & System Security, Vulnerability Assessment & VAPT, Secure SDLC, SAST, DAST, SCA, Incident Response, Linux Security, and security testing tools**.
 
 I leverage my software-engineering background to understand applications from both the **development and security perspective**, identify vulnerabilities, and build practical solutions to improve application security.
 
@@ -16,12 +16,15 @@ I leverage my software-engineering background to understand applications from bo
 * 🌐 Web & API Security
 * 🛡️ OWASP Top 10 & OWASP API Security Top 10
 * 🔎 Vulnerability Assessment & Penetration Testing
-* 🧠 Threat Modeling & Vulnerability Management
-* 🔒 Authentication & Authorization / RBAC
+* 🧠 Threat Modeling, Threats & Risk Management
+* 🔒 Authentication, Authorization, IAM & RBAC
 * 🧪 SAST / DAST / SCA
 * 🔄 Secure SDLC & Secure Coding
-* 🐧 Linux & Server Security
-* 🚨 Security Monitoring & Threat Detection
+* 🌐 Network & System Security
+* 🐧 Linux & Windows Security / Hardening
+* ☁️ Cloud Security & Security Architecture
+* 🚨 Security Monitoring, Incident Response & Threat Detection
+* 🔑 Cryptography & Security Fundamentals
 * ⚙️ Security Automation & Scripting
 
 ---
