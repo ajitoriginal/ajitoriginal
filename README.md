@@ -1,13 +1,6 @@
 # 💫 About Me
 
-Security-focused Software Engineer with **4+ years of experience** building web applications, REST APIs, and cloud systems using **Node.js, React.js, JavaScript/TypeScript, MongoDB, MySQL, and AWS**.
-
-Hands-on experience with **Application & API Security, JWT authentication, RBAC, API input validation/sanitization, secure coding, code reviews, CI/CD, and cloud deployments**.
-
-Currently transitioning into **Application Security / Product Security**, with practical cybersecurity training and hands-on labs covering **Security Engineering, Web & API Security, OWASP Top 10, Threats & Risk, Network & System Security, Vulnerability Assessment & VAPT, Secure SDLC, SAST, DAST, SCA, Incident Response, Linux Security, and security testing tools**.
-
-I leverage my software-engineering background to understand applications from both the **development and security perspective**, identify vulnerabilities, and build practical solutions to improve application security.
-
+Security-focused Software Engineer with 4+ years of experience building full-stack web applications, including frontend interfaces, backend services, and REST APIs. Transitioning into cybersecurity with a focus on Application Security and Product Security, backed by structured cybersecurity training, hands-on labs, and security projects covering web/API security, vulnerability analysis, and threat modeling. Skilled in analyzing application code and writing scripts to support technical analysis and security tasks.
 ---
 
 ## 🛡️ Security Expertise
