@@ -66,8 +66,6 @@ I'm currently targeting opportunities in:
 
 My long-term goal is to build expertise in **Application & Product Security**, combining my software-engineering background with practical cybersecurity skills.
 
----
-
 ## 🎓 Cybersecurity Training
 
 * **Security Engineer — TryHackMe**
@@ -75,13 +73,9 @@ My long-term goal is to build expertise in **Application & Product Security**, c
 * **Pre Security — TryHackMe**
 * **PGP Advanced Executive Program in Cyber Security — Simplilearn (IIIT-B)**
 
----
-
 ## 🔗 Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A0A0A?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://ajitoriginal.github.io/portfolio)
-
----
 
 ## 🌐 Connect With Me
 
