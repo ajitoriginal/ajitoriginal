@@ -49,14 +49,11 @@ Deployed a honeypot to simulate and analyze SSH brute-force activity, followed b
 
 ➡️ **[View Project](https://github.com/ajitoriginal/cybersecurity-portfolio/blob/main/projects/linux-server-hardening-honeypot/README.md)**
 
----
-
 ## 📚 Cybersecurity Portfolio
 
 ➡️ **[View All Cybersecurity Labs](https://github.com/ajitoriginal/cybersecurity-portfolio/tree/main/labs)**  
 ➡️ **[View All Cybersecurity Projects](https://github.com/ajitoriginal/cybersecurity-portfolio/tree/main/projects)**
 
----
 
 ## 🎯 Career Focus
 
