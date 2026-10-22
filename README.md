@@ -23,8 +23,6 @@ technical analysis and security tasks.
 * 🔑 Cryptography & Security Fundamentals
 * ⚙️ Security Automation & Scripting
 
----
-
 ## 🚀 Featured Cybersecurity Projects
 
 ### 🔍 Web Application Vulnerability Assessment & Penetration Testing
