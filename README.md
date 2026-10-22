@@ -81,9 +81,6 @@ My long-term goal is to build expertise in **Application & Product Security**, c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ajit-original)
 
-
----
-
 # 💻 Tech Stack
 
 ### 🔐 Security
