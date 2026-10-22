@@ -6,8 +6,6 @@ Product Security, backed by structured cybersecurity training, hands-on labs, an
 security, vulnerability analysis, and threat modeling. Skilled in analyzing application code and writing scripts to support
 technical analysis and security tasks.
 
----
-
 ## 🛡️ Security Expertise
 
 * 🔐 Application Security & Product Security
