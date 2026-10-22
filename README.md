@@ -1,6 +1,10 @@
 # 💫 About Me
 
-Security-focused Software Engineer with 4+ years of experience building full-stack web applications, including frontend interfaces, backend services, and REST APIs. Transitioning into cybersecurity with a focus on Application Security and Product Security, backed by structured cybersecurity training, hands-on labs, and security projects covering web/API security, vulnerability analysis, and threat modeling. Skilled in analyzing application code and writing scripts to support technical analysis and security tasks.
+Security-focused Software Engineer with 4+ years of experience building full-stack web applications, including frontend
+interfaces, backend services, and REST APIs. Transitioning into cybersecurity with a focus on Application Security and
+Product Security, backed by structured cybersecurity training, hands-on labs, and security projects covering web/API
+security, vulnerability analysis, and threat modeling. Skilled in analyzing application code and writing scripts to support
+technical analysis and security tasks.
 ---
 
 ## 🛡️ Security Expertise
