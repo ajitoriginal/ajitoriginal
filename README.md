@@ -5,6 +5,7 @@ interfaces, backend services, and REST APIs. Transitioning into cybersecurity wi
 Product Security, backed by structured cybersecurity training, hands-on labs, and security projects covering web/API
 security, vulnerability analysis, and threat modeling. Skilled in analyzing application code and writing scripts to support
 technical analysis and security tasks.
+
 ---
 
 ## 🛡️ Security Expertise
